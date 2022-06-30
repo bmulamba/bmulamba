@@ -1,10 +1,17 @@
-### Hi, I am **Badibanga Mulamba**
+# Hi, I am **Badibanga Mulamba**
 #### Designer & Developer 
 ![Designer & Developer ](https://pbs.twimg.com/profile_banners/1095657355235201024/1550064941/1080x360)
 
 Young ambitious and enthusiastic, badibanga is passionate about digitizing the world and using latest technology as a powerful tool to solve problem. he is mathematician, designer and software developer. On his daily basics he does spent most of his time by learning new tech or applied scientists about evolution. He is open mind and friendly man, love always what the team does in order to reach the goal and making sure that the work is done.
 
-Skills: REACT / JS / HTML / CSS / FIGMA / GRAPHQL / NODEJS
+## Skills & Experiences: 
+- REACT
+- JS
+- HTML
+- CSS
+- FIGMA
+- GRAPHQL
+- NODEJS
 
 - 🔭 I’m currently working on own E-Commerce 
 - 🌱 I’m currently learning Backend Development 
