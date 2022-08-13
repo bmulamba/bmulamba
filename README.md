@@ -7,11 +7,18 @@ Young ambitious and enthusiastic, badibanga is passionate about digitizing the w
 ## Skills & Experiences: 
 - REACT
 - JS
-- HTML
-- CSS
-- FIGMA
+- ANGULAR5+
 - GRAPHQL
 - NODEJS
+- APOLLO
+- DOM MANIPULATION
+- JSON
+- HTML
+- CSS
+- SASS
+- MySql
+- FIGMA
+
 
 - 🔭 I’m currently working on own E-Commerce 
 - 🌱 I’m currently learning Backend Development 
