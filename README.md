@@ -5,7 +5,9 @@
 Young ambitious and enthusiastic, badibanga is passionate about digitizing the world and using latest technology as a powerful tool to solve problem. he is mathematician, designer and software developer. On his daily basics he does spent most of his time by learning new tech or applied scientists about evolution. He is open mind and friendly man, love always what the team does in order to reach the goal and making sure that the work is done.
 
 ## Skills & Experiences: 
+- PHP
 - REACT
+- Ruby on Rails
 - JS
 - ANGULAR5+
 - GRAPHQL
